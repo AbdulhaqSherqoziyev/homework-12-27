@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "title": "Updated Blog Post",
+    "slug": "updated-blog-post",
+    "content": "Updated content for the blog post.",
+    "tags": [
+      "updated",
+      "tag"
+    ],
+    "comments": []
+  },
+  {
+    "id": 2,
+    "title": "My Second Blog",
+    "slug": "my-second-blog",
+    "content": "This is the content of my second blog.",
+    "tags": [
+      "blog",
+      "second"
+    ],
+    "comments": []
+  }
+]

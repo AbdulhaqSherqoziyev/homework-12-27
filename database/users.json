@@ -1,11 +1,20 @@
 [
   {
-    "id": 1,
-    "username": "john_doe",
-    "password": "mypassword123",
-    "fullName": "Johnathan Doe",
-    "age": 25,
-    "email": "john.doe@example.com",
+    "id": 2,
+    "username": "ABdulhaq",
+    "password": "54321",
+    "fullName": "ABdulhaq",
+    "age": 18,
+    "email": "abdulhaqsherqoziyev@gmail.com",
     "gender": "male"
+  },
+  {
+    "id": 3,
+    "username": "ddddd",
+    "password": "passwddddddddddord123",
+    "fullName": "Joddddd",
+    "age": 23,
+    "email": "ddddddd@example.com",
+    "gender": "malddddde"
   }
 ]
